@@ -1,0 +1,1178 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "ItemList",
+  "itemList": [
+    {
+      "@context": "http://schema.org/",
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_ProzeduraleProgrammierung/master/00_Einfuehrung.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & andre.dietrich@ovgu.de & Galina.Rudolf@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug & André Dietrich & Galina Rudolf"
+          },
+          "description": "Einführung in die Programmierung für Nicht-Informatiker",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_ProzeduraleProgrammierung/img/LogoCodeExample.png"
+          },
+          "inLanguage": "de",
+          "name": "Einführung",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_ProzeduraleProgrammierung/master/00_Einfuehrung.md",
+          "version": "1.0.1"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_ProzeduraleProgrammierung/master/01_EingabeAusgabeDatentypen.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & andre.dietrich@ovgu.de & Galina.Rudolf@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug & André Dietrich & Galina Rudolf"
+          },
+          "description": "Einführung in die Programmierung für Nicht-Informatiker",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_ProzeduraleProgrammierung/img/LogoCodeExample.png"
+          },
+          "inLanguage": "de",
+          "name": "Grundlagen der Sprache C",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_ProzeduraleProgrammierung/master/01_EingabeAusgabeDatentypen.md",
+          "version": "1.0.2"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_ProzeduraleProgrammierung/master/02_OperatorenKontrollstrukturen.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & andre.dietrich@ovgu.de & Galina.Rudolf@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug & André Dietrich & Galina Rudolf"
+          },
+          "description": "Einführung in die Programmierung für Nicht-Informatiker",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_ProzeduraleProgrammierung/img/LogoCodeExample.png"
+          },
+          "inLanguage": "de",
+          "name": "Operatoren & Kontrollstrukturen",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_ProzeduraleProgrammierung/master/02_OperatorenKontrollstrukturen.md",
+          "version": "1.0.2"
+        }
+      ],
+      "name": "Prozedurale Programmierung",
+      "description": "todo"
+    },
+    {
+      "@context": "http://schema.org/",
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/00_Einfuehrung.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf, André Dietrich, Fritz Apelt, `KoKoKotlin`"
+          },
+          "description": "Motivation der Vorlesung Softwareentwicklung",
+          "image": {
+            "@type": "ImageObject",
+            "url": "https://liascript.github.io/img/bg-showcase-1.jpg"
+          },
+          "inLanguage": "de",
+          "name": "Einführung",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/00_Einfuehrung.md",
+          "version": "1.0.4"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/01_Software.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf, André Dietrich, Christoph Pooch,`KoKoKotlin`, `Lina` & `Florian2501`"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "Softwareentwicklung als Prozess",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/01_Software.md",
+          "version": "1.0.1"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/02_DotNet.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf, André Dietrich, `fjangfaragesh`, `KoKoKotlin` & `Lina`"
+          },
+          "description": "Use the real Python in your LiaScript courses, by loading this template. For more information and to see, which Python-modules are accessible visit the [pyodide-website](https://alpha.iodide.io).",
+          "inLanguage": "de",
+          "name": ".NET und Einordnung der Sprache C#",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/02_DotNet.md",
+          "version": "1.0.1"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/03_CsharpGrundlagenI.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf, André Dietrich, `snikker123` & `Florian2501`"
+          },
+          "description": "Use the real Python in your LiaScript courses, by loading this template. For more information and to see, which Python-modules are accessible visit the [pyodide-website](https://alpha.iodide.io).",
+          "inLanguage": "de",
+          "name": "C# Grundlagen I",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/03_CsharpGrundlagenI.md",
+          "version": "1.0.1"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/04_CsharpGrundlagenII.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf, André Dietrich, `Lina` & `Florian2501`"
+          },
+          "inLanguage": "de",
+          "name": "C# Grundlagen II",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/04_CsharpGrundlagenII.md",
+          "version": "1.0.4"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/05_CsharpGrundlagenIII.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf, André Dietrich & `Lina`"
+          },
+          "inLanguage": "de",
+          "name": "C# Grundlagen III",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/05_CsharpGrundlagenIII.md",
+          "version": "1.0.1"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/06_ProgrammflussUndFunktionen.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf, André Dietrich, `Lina` & `KoKoKotlin`"
+          },
+          "inLanguage": "de",
+          "name": "Programmfluss und Funktionen",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/06_ProgrammflussUndFunktionen.md",
+          "version": "1.0.2"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/07_OOPGrundlagenI.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf, André Dietrich & `Florian2501`"
+          },
+          "inLanguage": "de",
+          "name": "OOP Motivation",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/07_OOPGrundlagenI.md",
+          "version": "1.0.3"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/08_OOPGrundlagenII.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf, André Dietrich, `Lina`"
+          },
+          "inLanguage": "de",
+          "name": "OOP Konzepte I",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/08_OOPGrundlagenII.md",
+          "version": "1.0.2"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/09_Vererbung.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf, André Dietrich"
+          },
+          "inLanguage": "de",
+          "name": "Vererbung",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/09_Vererbung.md",
+          "version": "1.0.4"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/10_AbstrakteKlassenUndInterfaces.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf, André Dietrich, `Lina` & `Florian2501`"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "Abstrakte Klassen und Interfaces",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/10_AbstrakteKlassenUndInterfaces.md",
+          "version": "1.0.11"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/11_VersionsverwaltungI.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf, André Dietrich & `JohannaKlinke`"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "Versionsverwaltung I",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/11_VersionsverwaltungI.md",
+          "version": "1.0.7"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/12_VersionsverwaltungII.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf, André Dietrich & `Lesestein`"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "Versionsverwaltung II",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/12_VersionsverwaltungII.md",
+          "version": "1.0.1"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/13_UML_Modellierung.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf & André Dietrich"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "Modellierung von Software",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/13_UML_Modellierung.md",
+          "version": "1.0.2"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/14_UML_ModellierungII.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf & André Dietrich"
+          },
+          "description": "Use the real Python in your LiaScript courses, by loading this template. For more information and to see, which Python-modules are accessible visit the [pyodide-website](https://alpha.iodide.io).",
+          "inLanguage": "de",
+          "name": "Modellierung von Software",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/14_UML_ModellierungII.md",
+          "version": "1.0.4"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/15_UML_ModellierungIII.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf & André Dietrich"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "Modellierung von Software",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/15_UML_ModellierungIII.md",
+          "version": "1.0.2"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/16_Testen.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf & André Dietrich"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "Modellierung von Software",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/16_Testen.md",
+          "version": "1.0.5"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/17_Dokumentation_BuildTools.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf & André Dietrich"
+          },
+          "description": "This template offers two macros for integrating ExplainGit, which uses D3 to visualize simple git branching operations. This simple project is designed to help people understand some basic git concepts visually.",
+          "inLanguage": "de",
+          "name": "Dokumentation und Build-Tools",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/17_Dokumentation_BuildTools.md",
+          "version": "1.0.5"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/18_ContinuousIntegration.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf & André Dietrich"
+          },
+          "inLanguage": "de",
+          "name": "Continuous Integration",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/18_ContinuousIntegration.md",
+          "version": "1.0.7"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/19_Generics.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf & André Dietrich"
+          },
+          "inLanguage": "de",
+          "name": "Generics",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/19_Generics.md",
+          "version": "1.0.1"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/20_Container.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf & André Dietrich"
+          },
+          "description": "Use the real Python in your LiaScript courses, by loading this template. For more information and to see, which Python-modules are accessible visit the [pyodide-website](https://alpha.iodide.io).",
+          "inLanguage": "de",
+          "name": "Collections",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/20_Container.md",
+          "version": "1.0.3"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/21_Delegaten.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf & André Dietrich"
+          },
+          "inLanguage": "de",
+          "name": "Delegaten",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/21_Delegaten.md",
+          "version": "1.0.4"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/22_Events.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf & André Dietrich"
+          },
+          "description": "Use the real Python in your LiaScript courses, by loading this template. For more information and to see, which Python-modules are accessible visit the [pyodide-website](https://alpha.iodide.io).",
+          "inLanguage": "de",
+          "name": "Events",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/22_Events.md",
+          "version": "1.0.4"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/23_Threads.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf & André Dietrich"
+          },
+          "inLanguage": "de",
+          "name": "Threads",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/23_Threads.md",
+          "version": "1.0.3"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/24_Tasks.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf & André Dietrich"
+          },
+          "inLanguage": "de",
+          "name": "Tasks",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/24_Tasks.md",
+          "version": "2.0.0"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/25_LINQ.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf & André Dietrich"
+          },
+          "description": "Macros for executing SQL code snippets with AlaSQL in LiaScript.",
+          "inLanguage": "de",
+          "name": "Language-Integrated Query",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/25_LINQ.md",
+          "version": "1.0.1"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/26_DesignPattern.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf & André Dietrich"
+          },
+          "description": "Macros for executing SQL code snippets with AlaSQL in LiaScript.",
+          "inLanguage": "de",
+          "name": "Entwurfsmuster",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/26_DesignPattern.md",
+          "version": "1.0.1"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/27_Anwendungen.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Galina Rudolf & André Dietrich"
+          },
+          "description": "Macros for executing SQL code snippets with AlaSQL in LiaScript.",
+          "inLanguage": "de",
+          "name": "Anwendungsbeispiele",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_Softwareentwicklung/master/27_Anwendungen.md",
+          "version": "1.0.0"
+        }
+      ],
+      "name": "Softwareentwicklung",
+      "description": "Todo"
+    },
+    {
+      "@context": "http://schema.org/",
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/00_Einfuehrung.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & andre.dietrich@informatik.tu-freiberg.de & fabian.baer@student.tu-freiberg.de",
+            "name": "Sebastian Zug, André Dietrich & `fjangfaragesh`, `FnHm`, `gjaeger`, `ShyFlyGuy`, `Lalelele`"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "Einführung",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/00_Einfuehrung.md",
+          "version": "0.0.1"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/01_HistorischerUeberblick.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & andre.dietrich@informatik.tu-freiberg.de & fabian.baer@student.tu-freiberg.de",
+            "name": "Sebastian Zug & André Dietrich & Fabian Bär"
+          },
+          "description": "A Arduino-Simulator template for JavaScript based on NetSwarm, which can be included into your course to make Arduino-code snippets executeable.",
+          "inLanguage": "de",
+          "name": "Historischer Überblick",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/01_HistorischerUeberblick.md",
+          "version": "0.0.1"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/02_BoolscheAlgebra.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & andre.dietrich@informatik.tu-freiberg.de & fabian.baer@student.tu-freiberg.de",
+            "name": "Sebastian Zug & André Dietrich & Fabian Bär"
+          },
+          "description": "A Arduino-Simulator template for JavaScript based on NetSwarm, which can be included into your course to make Arduino-code snippets executeable.",
+          "inLanguage": "de",
+          "name": "Boolsche Algebra",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/02_BoolscheAlgebra.md",
+          "version": "0.0.1"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/03_Minimierung.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & andre.dietrich@informatik.tu-freiberg.de & fabian.baer@student.tu-freiberg.de",
+            "name": "Sebastian Zug & André Dietrich & Fabian Bär"
+          },
+          "description": "A Arduino-Simulator template for JavaScript based on NetSwarm, which can be included into your course to make Arduino-code snippets executeable.",
+          "inLanguage": "de",
+          "name": "Minimierung von boolschen Funktionen",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/03_Minimierung.md",
+          "version": "0.0.2"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/04_Schaltnetze.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & andre.dietrich@informatik.tu-freiberg.de & fabian.baer@student.tu-freiberg.de",
+            "name": "Sebastian Zug & André Dietrich & Fabian Bär"
+          },
+          "description": "A Arduino-Simulator template for JavaScript based on NetSwarm, which can be included into your course to make Arduino-code snippets executeable.",
+          "inLanguage": "de",
+          "name": "Minimierung von boolschen Funktionen / Schaltnetze",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/04_Schaltnetze.md",
+          "version": "0.0.6"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/05_Standardschaltnetze.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & andre.dietrich@informatik.tu-freiberg.de & fabian.baer@student.tu-freiberg.de",
+            "name": "Sebastian Zug & André Dietrich & Fabian Bär"
+          },
+          "description": "Set of PyScript-macros to be used with LiaScript for creating interactive Python tutorial.",
+          "inLanguage": "de",
+          "name": "Standardschaltnetze",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/05_Standardschaltnetze.md",
+          "version": "0.0.7"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/06_FlipFlops.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & andre.dietrich@informatik.tu-freiberg.de & fabian.baer@student.tu-freiberg.de",
+            "name": "Sebastian Zug & André Dietrich & Fabian Bär"
+          },
+          "description": "Use the real Python in your LiaScript courses, by loading this template. For more information and to see, which Python-modules are accessible visit the [pyodide-website](https://alpha.iodide.io).",
+          "inLanguage": "de",
+          "name": "FlipFlops",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/06_FlipFlops.md",
+          "version": "0.0.7"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/07_Schaltwerke.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & andre.dietrich@informatik.tu-freiberg.de & fabian.baer@student.tu-freiberg.de",
+            "name": "Sebastian Zug & André Dietrich & Fabian Bär"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "Schaltwerke",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/07_Schaltwerke.md",
+          "version": "0.0.7"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/08_StandardSchaltwerke.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & andre.dietrich@informatik.tu-freiberg.de & fabian.baer@student.tu-freiberg.de",
+            "name": "Sebastian Zug & André Dietrich & Fabian Bär"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "Standardschaltwerke",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/08_StandardSchaltwerke.md",
+          "version": "0.0.6"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/09_Rechnerarithmetik.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & andre.dietrich@informatik.tu-freiberg.de & fabian.baer@student.tu-freiberg.de",
+            "name": "Sebastian Zug & André Dietrich & Fabian Bär"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "Rechnerarithmetik",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/09_Rechnerarithmetik.md",
+          "version": "0.0.7"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/10_CPU_Basis.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & andre.dietrich@informatik.tu-freiberg.de & fabian.baer@student.tu-freiberg.de",
+            "name": "Sebastian Zug & André Dietrich & Fabian Bär"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "Von mathematischen Operationen zur CPU",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/10_CPU_Basis.md",
+          "version": "0.0.3"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/11_Modell_CPU.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & andre.dietrich@informatik.tu-freiberg.de & fabian.baer@student.tu-freiberg.de",
+            "name": "Sebastian Zug & André Dietrich & Fabian Bär"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "Modell CPU",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/11_Modell_CPU.md",
+          "version": "0.0.5"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/13_AVR_CPU.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & andre.dietrich@informatik.tu-freiberg.de & fabian.baer@student.tu-freiberg.de",
+            "name": "Sebastian Zug & André Dietrich & Fabian Bär"
+          },
+          "description": "Use the real Python in your LiaScript courses, by loading this template. For more information and to see, which Python-modules are accessible visit the [pyodide-website](https://alpha.iodide.io).",
+          "inLanguage": "de",
+          "name": "Programmierung CPU",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/13_AVR_CPU.md",
+          "version": "0.0.8"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/14_ADC.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & andre.dietrich@informatik.tu-freiberg.de & fabian.baer@student.tu-freiberg.de",
+            "name": "Sebastian Zug & André Dietrich & Fabian Bär"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "Analog-Digital-Wandler",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/14_ADC.md",
+          "version": "0.0.5"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/15_TimerUndInterrupts.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & andre.dietrich@informatik.tu-freiberg.de & fabian.baer@student.tu-freiberg.de",
+            "name": "Sebastian Zug & André Dietrich & Fabian Bär"
+          },
+          "description": "Use the real Python in your LiaScript courses, by loading this template. For more information and to see, which Python-modules are accessible visit the [pyodide-website](https://alpha.iodide.io).",
+          "inLanguage": "de",
+          "name": "Timer und Interrupts",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/15_TimerUndInterrupts.md",
+          "version": "0.0.7"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/16_Aktoren.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & andre.dietrich@informatik.tu-freiberg.de & fabian.baer@student.tu-freiberg.de",
+            "name": "Sebastian Zug & André Dietrich & Fabian Bär"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "Ansteuerung von peripheren Komponenten",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_EingebetteteSysteme/master/16_Aktoren.md",
+          "version": "0.0.5"
+        }
+      ],
+      "name": "Eingebettete Systeme",
+      "description": "todo"
+    },
+    {
+      "@context": "http://schema.org/",
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik/master/00_Einfuehrung.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & Georg.Jaeger@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug & Georg Jäger"
+          },
+          "inLanguage": "de",
+          "name": "Einführung",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik/master/00_Einfuehrung.md",
+          "version": "0.1.2"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik/master/01_OOPinC%2B%2B.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & Georg.Jaeger@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug & Georg Jäger"
+          },
+          "inLanguage": "de",
+          "name": "Objektorientierte Programmierung in C++",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik/master/01_OOPinC%2B%2B.md",
+          "version": "0.0.1"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik/master/02_SpeicherUndPointer.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & Georg.Jaeger@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug & Georg Jäger"
+          },
+          "inLanguage": "de",
+          "name": "Speicher und Pointer",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik/master/02_SpeicherUndPointer.md",
+          "version": "0.0.1"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik/master/03_Templates.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & Georg.Jaeger@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug & Georg Jäger"
+          },
+          "inLanguage": "de",
+          "name": "Templates",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik/master/03_Templates.md",
+          "version": "0.0.1"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik/master/04_OOP_Container.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & Georg.Jaeger@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug & Georg Jäger"
+          },
+          "inLanguage": "de",
+          "name": "OOP und Container",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik/master/04_OOP_Container.md",
+          "version": "0.0.2"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik/master/05_Entwurfsmuster.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & Georg.Jaeger@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug & Georg Jäger"
+          },
+          "inLanguage": "de",
+          "name": "Entwurfsmuster",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik/master/05_Entwurfsmuster.md",
+          "version": "0.0.2"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik/master/06_EinfuehrungROS.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & Georg.Jaeger@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug & Georg Jäger"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "Einführung in ROS2",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik/master/06_EinfuehrungROS.md",
+          "version": "0.0.3"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik/master/07_ROS_Pakete.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & Georg.Jaeger@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug & Georg Jäger"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "ROS2 Pakete",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik/master/07_ROS_Pakete.md",
+          "version": "0.0.2"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik/master/08_ROS_Kommunikation.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & Georg.Jaeger@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug & Georg Jäger"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "ROS2 Kommunikationsmethoden",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik/master/08_ROS_Kommunikation.md",
+          "version": "0.0.2"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik/master/09_Sensoren.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de & Georg.Jaeger@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug & Georg Jäger"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "Sensoren",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_SoftwareprojektRobotik/master/09_Sensoren.md",
+          "version": "0.0.3"
+        }
+      ],
+      "name": "Softwareprojekt Robotik",
+      "description": "todo"
+    },
+    {
+      "@context": "http://schema.org/",
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/00_Einfuehrung.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Karl Fessel & Andrè Dietrich"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "Einführung und Motivation",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/00_Einfuehrung.md",
+          "version": "0.0.2"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/01_Grundbegriffe.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Karl Fessel & Andrè Dietrich"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "Einführung und Motivation",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/01_Grundbegriffe.md",
+          "version": "0.0.2"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/02_ATmegaFamilie.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Karl Fessel & Andrè Dietrich"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "ATmega Controller",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/02_ATmegaFamilie.md",
+          "version": "0.0.2"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/03_Limitations.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Karl Fessel & Andrè Dietrich"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "Beschränkungen der ATmega Controller",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/03_Limitations.md",
+          "version": "0.0.1"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/04_AnalogDigitalWandler.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Karl Fessel & Andrè Dietrich"
+          },
+          "description": "Use the real Python in your LiaScript courses, by loading this template. For more information and to see, which Python-modules are accessible visit the [pyodide-website](https://alpha.iodide.io).",
+          "inLanguage": "de",
+          "name": "Analog-Digital-Wandler",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/04_AnalogDigitalWandler.md",
+          "version": "0.0.1"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/05_InterruptsTimer.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Karl Fessel & Andrè Dietrich"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "Interrupts und Timer",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/05_InterruptsTimer.md",
+          "version": "1.0.0"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/06_Kommunikation.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Karl Fessel & Andrè Dietrich"
+          },
+          "description": "Use the real Python in your LiaScript courses, by loading this template. For more information and to see, which Python-modules are accessible visit the [pyodide-website](https://alpha.iodide.io).",
+          "inLanguage": "de",
+          "name": "Kommunikation",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/06_Kommunikation.md",
+          "version": "1.0.2"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/07_RTOS_Konzepte.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Karl Fessel & Andrè Dietrich"
+          },
+          "description": "Use the real Python in your LiaScript courses, by loading this template. For more information and to see, which Python-modules are accessible visit the [pyodide-website](https://alpha.iodide.io).",
+          "inLanguage": "de",
+          "name": "Scheduling",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/07_RTOS_Konzepte.md",
+          "version": "1.0.2"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/08_RTOS_Schedulingalgorithmen.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Karl Fessel & Andrè Dietrich"
+          },
+          "description": "Use the real Python in your LiaScript courses, by loading this template. For more information and to see, which Python-modules are accessible visit the [pyodide-website](https://alpha.iodide.io).",
+          "inLanguage": "de",
+          "name": "Scheduling Algorithmen",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/08_RTOS_Schedulingalgorithmen.md",
+          "version": "1.0.3"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/09_XMEGA.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Karl Fessel & Andrè Dietrich"
+          },
+          "description": "Use the real Python in your LiaScript courses, by loading this template. For more information and to see, which Python-modules are accessible visit the [pyodide-website](https://alpha.iodide.io).",
+          "inLanguage": "de",
+          "name": "Erweiterte AVR Architekturen",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/09_XMEGA.md",
+          "version": "1.0.1"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/10_XMEGA_Abgrenzung.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Karl Fessel & Andrè Dietrich"
+          },
+          "description": "LiaScript template for the AVR8js simulator.",
+          "inLanguage": "de",
+          "name": "Abgrenzung des 4809",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/10_XMEGA_Abgrenzung.md",
+          "version": "1.0.2"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/11_CortexMController.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Karl Fessel & Andrè Dietrich"
+          },
+          "description": "A set of macros for plotting diagrams with plantUML in LiaScript. See also https://plantuml.com for more information.",
+          "inLanguage": "de",
+          "name": "ARM Cortex M Controller",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/11_CortexMController.md",
+          "version": "1.0.3"
+        },
+        {
+          "@context": "http://schema.org/",
+          "@id": "https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/12_CortexMFeatures.md",
+          "@type": "Course",
+          "author": {
+            "@type": "Person",
+            "email": "sebastian.zug@informatik.tu-freiberg.de",
+            "name": "Sebastian Zug, Karl Fessel & Andrè Dietrich"
+          },
+          "description": "Use the real Python in your LiaScript courses, by loading this template. For more information and to see, which Python-modules are accessible visit the [pyodide-website](https://alpha.iodide.io).",
+          "inLanguage": "de",
+          "name": "Features STM32F4",
+          "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/TUBAF-IfI-LiaScript/VL_DigitaleSysteme/main/lectures/12_CortexMFeatures.md",
+          "version": "1.0.2"
+        }
+      ],
+      "name": "Digitale Systeme",
+      "description": "todo"
+    },
+    {
+      "@context": "http://schema.org/",
+      "@id": "https://raw.githubusercontent.com/LiaScript/docs/master/README.md",
+      "@type": "Course",
+      "author": {
+        "@type": "Person",
+        "email": "LiaScript@web.de",
+        "name": "André Dietrich"
+      },
+      "description": "This document shall provide an entire compendium and course on the development of Open-courSes with [LiaScript](https://LiaScript.github.io). As the language and the systems grows, also this document will be updated. Feel free to fork or copy it, translations are very welcome...",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://liascript.github.io/img/bg-showcase-1.jpg"
+      },
+      "inLanguage": "en",
+      "name": "LiaScript",
+      "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/LiaScript/docs/master/README.md",
+      "version": "23.0.0"
+    },
+    {
+      "@context": "http://schema.org/",
+      "@id": "https://raw.githubusercontent.com/LiaBooks/LiaScript-Tutorial/main/README.md",
+      "@type": "Course",
+      "author": {
+        "@type": "Person",
+        "email": "your@mail.org",
+        "name": "Your Name"
+      },
+      "description": "Es wird gezeigt, wie typische bekannte Präsentationselemente auch mithilfe von LiaScript genutzt werden können.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://raw.githubusercontent.com/LiaBooks/LiaScript-Tutorial/pic/logo.jpg"
+      },
+      "inLanguage": "de",
+      "keywords": [
+        "LiaScript",
+        "PowerPoint",
+        "Tutorial"
+      ],
+      "name": "Tutorial",
+      "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/LiaBooks/LiaScript-Tutorial/main/README.md",
+      "version": "0.0.1"
+    },
+    {
+      "@context": "http://schema.org/",
+      "@id": "https://raw.githubusercontent.com/LiaPlayground/LiaScript_WeAreDevelopers2022/main/README.md",
+      "@type": "Course",
+      "author": {
+        "@type": "Person",
+        "email": "andre.dietrich@informatik.tu-freiberg.de & sebastian.zug@informatik.tu-freiberg.de",
+        "name": "André Dietrich, Sebastian Zug"
+      },
+      "description": "Presentation and interactive demonstration of LiaScript at the \"We Are Developers 2022\" conference in Berlin.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://assets-global.website-files.com/5e9996a6531fea7d1003b18e/62247118d91be13aa5de577f_Group%201919-min.png"
+      },
+      "inLanguage": "en",
+      "name": "LiaScript - Interactive Markdown for Education & Documentation",
+      "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/LiaScript_WeAreDevelopers2022/main/README.md",
+      "version": "0.0.2"
+    },
+    {
+      "@context": "http://schema.org/",
+      "@id": "https://raw.githubusercontent.com/LiaPlayground/LiaScript_Tutorial_Kigali/main/README.md",
+      "@type": "Course",
+      "author": {
+        "@type": "Person",
+        "email": "LiaScript@web.de",
+        "name": "André Dietrich & Sebastian Zug"
+      },
+      "description": "Full day workshop at eLearning Africa 2022.",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://www.elearning-africa.com/conference2022/ressources/banner/2022/social_1200_630.png"
+      },
+      "inLanguage": "en",
+      "name": "LiaScript Tutorial: eLearning Africa 2022",
+      "url": "https://LiaScript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/LiaScript_Tutorial_Kigali/main/README.md",
+      "version": "0.0.2"
+    }
+  ],
+  "name": "OER - Kurssammlung",
+  "description": "Sammlung der OER Inhalte der Arbeitsgruppe Softwareentwicklung und Robotik (TU Freiberg)"
+}
